@@ -1,6 +1,6 @@
 # Minibaja
-Founded alternative branch (Telemetry) for the team with the objective of collecting data from the subsystems of the vehicle; therefore, correlating the collected information with the simulated designs and preforming modifications accordingly
+The team participates in national and international SAE events where the mechanical design and the vehicle’s performance is evaluated by undergoing a series of on-site tests, such as obstacle courses. I have been a member of the team since august 2019 where my main role was addressing the vehicle’s steering system. Initially my main contribution was noticing that the vehicle had difficulty steering when a tight turn was involved. After some research I came to the conclusion that the ackermann angle had been calculated inaccurately and what had resulted was an anti-ackermann configuration in the steering geometry. The solution was to simply correct the geometry to a positive Ackermann configuration resulting a smaller turning radius. 
+During the period of  Jan-2022 and Jun-2022 I became the vice president and founded alternative branch (Telemetry) with the objective wireless sensory systems, and collecting data from the subsystems of the vehicle; therefore, correlating the collected information with the simulated designs and preforming modifications accordingly. 
 The system estimates the vehicle's velocity in real time.
-The system consists of three fotoelectric sensors mounted to camera like structures (made in house)
+The system consists of three photoelectric sensors mounted to camera like structures (made in house)
 
-You can follow the team's intagram @madramsgda_itesm
