@@ -7,3 +7,16 @@ The team had the goal to create a method to read the vehicle’s average velocit
 My main role during this process was to program the microcontroller to control the sensors into acting like a ‘start’ and a ‘finish’ line, and programming the interrupts necessary for the timer to be created. My second role was to design the simple android app that would act as the timer’s visualizer.
 
 You can find follow the team's intagram @madramsgda_itesm
+
+# Images
+
+![](IMG_20191026_155125453 (1).jpg)
+
+![](IMG_20200131_170529164.jpg)
+
+![](IMG_20220326_145558.jpg)
+
+![](IMG_20201105_113409290.jpg)
+
+![](IMG_20220330_145817.jpg)
+
